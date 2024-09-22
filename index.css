@@ -1,0 +1,29 @@
+/* App.css */
+.app-container {
+  margin: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.slds-table {
+  margin-top: 20px;
+}
+
+button.slds-button {
+  margin-bottom: 20px;
+}
+
+.slds-modal__header {
+  background-color: #f4f6f9;
+}
+
+.slds-modal__footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.slds-button_brand {
+  background-color: #0070d2;
+}
